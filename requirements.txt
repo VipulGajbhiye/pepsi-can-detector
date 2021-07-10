@@ -1,0 +1,12 @@
+ipywidgets
+timm
+scikit-learn
+omegaconf
+icevision[all]
+icedata
+yolov5-icevision
+wandb
+voila==0.2.10
+gradio
+#-v --disable-pip-version-check --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" git+git://github.com/NVIDIA/apex
+
