@@ -1,4 +1,4 @@
-# Grocerry Item Detection 
+# Grocery Item Detection 
 ## In this project mainly icevision and fastai is used for training and creating model for prediction.
 ### This project can detect [milk_bottle, carton, can, water_bottle,pepsi can].
 
